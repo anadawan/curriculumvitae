@@ -1,0 +1,15 @@
+{
+  "name": "cv-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "route.js",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none yet"
+  },
+  "author": "Thomas CHEZAUD (thomas1.chezaud@epitech.eu)",
+  "license": "ISC"
+}
